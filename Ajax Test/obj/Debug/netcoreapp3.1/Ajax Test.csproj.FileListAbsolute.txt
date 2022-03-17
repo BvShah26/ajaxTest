@@ -1,0 +1,346 @@
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.csproj.AssemblyReference.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.AssemblyInfoInputs.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.AssemblyInfo.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.csproj.CoreCompileInputs.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.MvcApplicationPartsAssemblyInfo.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.MvcApplicationPartsAssemblyInfo.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorAssemblyInfo.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorAssemblyInfo.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\staticwebassets\Ajax Test.StaticWebAssets.Manifest.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\staticwebassets\Ajax Test.StaticWebAssets.xml
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\scopedcss\bundle\Ajax Test.styles.css
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.TagHelpers.input.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.TagHelpers.output.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorCoreGenerate.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorTargetAssemblyInfo.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorTargetAssemblyInfo.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.dll
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.pdb
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\appsettings.json
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.StaticWebAssets.xml
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.exe
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.deps.json
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.runtimeconfig.json
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.runtimeconfig.dev.json
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.pdb
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.Views.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.Views.pdb
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\core net\Ajax Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.Views.pdb
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.csproj.CopyComplete
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.genruntimeconfig.cache
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Create.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Delete.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Details.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Edit.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Index.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Create.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Delete.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Details.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Edit.cshtml.g.cs
+E:\core net\Ajax Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Index.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.csproj.AssemblyReference.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.AssemblyInfoInputs.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.AssemblyInfo.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.csproj.CoreCompileInputs.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.MvcApplicationPartsAssemblyInfo.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.MvcApplicationPartsAssemblyInfo.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorAssemblyInfo.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorAssemblyInfo.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\staticwebassets\Ajax Test.StaticWebAssets.Manifest.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\staticwebassets\Ajax Test.StaticWebAssets.xml
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\scopedcss\bundle\Ajax Test.styles.css
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.TagHelpers.input.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.TagHelpers.output.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorCoreGenerate.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Create.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Delete.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Details.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Edit.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Countries\Index.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Create.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Delete.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Details.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Edit.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\States\Index.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorTargetAssemblyInfo.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.RazorTargetAssemblyInfo.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.dll
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.pdb
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.StaticWebAssets.xml
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.exe
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.deps.json
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.runtimeconfig.json
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.runtimeconfig.dev.json
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.pdb
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.Views.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Ajax Test.Views.pdb
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Bhavya\Ajax-Test\Ajax Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.Views.pdb
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.csproj.CopyComplete
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Ajax Test.genruntimeconfig.cache
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Create.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Delete.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Details.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Edit.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Index.cshtml.g.cs
+F:\Bhavya\Ajax-Test\Ajax Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs

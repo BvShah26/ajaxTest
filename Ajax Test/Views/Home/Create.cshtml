@@ -1,0 +1,128 @@
+﻿@model Ajax_Test.ViewModel.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>RegisterViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Country" class="control-label">Country Name</label>
+                <select class="form-control" id="ddlCountry" asp-items="ViewBag.Country">
+                    <option value="-1">Select Country</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Country" class="control-label">State Name</label>
+                <select class="form-control" id="ddlState">
+                    <option value="-1">Select State</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Country" class="control-label">City Name</label>
+                <select class="form-control" id="ddlCity">
+                    <option value="-1">Select City</option>
+                </select>
+            </div>
+
+
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>0
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+        $("#ddlState").attr('disabled', true)
+        $("#ddlCity").attr('disabled', true)
+
+        $("#ddlCountry").change(function () {
+
+
+
+            $.ajax({
+                type: "Get",
+                url: "home/getStates/",
+                dataType: "json",
+                data: { "id": $("#ddlCountry").val() },
+
+                success: function (data) {
+                    $("#ddlCountry").find('[value="-1"]').remove();
+
+                    $("#ddlState").removeAttr('disabled')
+                    $("#ddlState").empty();
+
+                    $("#ddlState").append("<option value=" + -1 + " >Please Select State</option>")
+
+                    $("#ddlCity").empty();
+                    $("#ddlCity").append("<option value=" + -1 + " >Please Select City</option>")
+                    $("#ddlCity").attr('disabled', true)
+
+                    $.each(data, (i, val) => {
+                        $("#ddlState").append("<option value=" + val.countryId + " >" + val.stateName + "</option>")
+                    })
+                }
+            });
+
+        });
+
+        $("#ddlState").change(function () {
+
+
+            $.ajax({
+                type: "Get",
+                url: "home/getCity/",
+                dataType: "json",
+                data: { "id": $("#ddlState").val() },
+
+                success: function (data) {
+
+                    $("#ddlState").find('[value="-1"]').remove();
+
+                    $("#ddlCity").removeAttr('disabled')
+                    $("#ddlCity").empty();
+                    $("#ddlCity").append("<option value=" + -1 + " >Please Select City</option>")
+                    $("#ddlCity").removeAttr('disabled')
+                    $.each(data, (i, val) => {
+                        $("#ddlCity").append("<option value=" + val.cityId + " >" + val.cityName + "</option>")
+                    })
+                }
+            });
+
+        })
+
+        $("#ddlCity").change(function () {
+            $("#ddlCity").find('[value="-1"]').remove();
+
+        })
+    })
+</script>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
